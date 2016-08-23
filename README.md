@@ -1,2 +1,3 @@
 # hello-word
 My first repository
+Just trying stuffs and shit ...
